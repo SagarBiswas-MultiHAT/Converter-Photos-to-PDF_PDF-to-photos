@@ -1,12 +1,12 @@
 # Photo(s) to Ultra-High Quality PDF
 
+This is a simple Windows desktop app that turns your photo(s) into a PDF.
+
 <div align="center">
 
 ![](https://imgur.com/RHkQVO1.png)
 
 </div>
-
-This is a simple Windows desktop app that turns your photo(s) into a PDF.
 
 Think of it like this:
 
