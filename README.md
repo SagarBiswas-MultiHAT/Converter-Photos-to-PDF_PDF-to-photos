@@ -33,8 +33,6 @@ It tries to keep your photos looking as good as possible.
 
 ### Install the libraries and run
 
-If you do NOT have `.venv` (or it doesn’t work), do this:
-
 1. Open PowerShell in the project folder
 
 ```powershell
