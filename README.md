@@ -2,6 +2,8 @@
 
 This is a simple Windows desktop app that turns your photo(s) into a PDF(s) and PDF(s) into a photo(s).
 
+---
+
 <div align="center">
 
 ![](https://imgur.com/YfSs9at.png)
@@ -9,6 +11,8 @@ This is a simple Windows desktop app that turns your photo(s) into a PDF(s) and 
 ![](https://imgur.com/HF2Iufb.png)
 
 </div>
+
+---
 
 Think of it like this:
 
